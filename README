@@ -1,0 +1,9 @@
+The program provided data for my Master's thesis (see 'thesis.pdf').
+
+
+The date in the appendix were computed as follows:
+  * to compute Table A.1 type "make run_partial",
+  * to compute Table A.2 type "make run_exact".
+
+
+The program also computes the number of permutation matrices of order 6 avoiding X^{+} and Y^{+} defined on page 3 in the Master's thesis (type "make run_extension").
